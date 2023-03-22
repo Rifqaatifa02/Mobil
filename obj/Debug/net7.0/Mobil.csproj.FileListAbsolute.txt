@@ -1,0 +1,15 @@
+D:\AMIKOM\Pemograman\Mobil\bin\Debug\net7.0\Mobil.exe
+D:\AMIKOM\Pemograman\Mobil\bin\Debug\net7.0\Mobil.deps.json
+D:\AMIKOM\Pemograman\Mobil\bin\Debug\net7.0\Mobil.runtimeconfig.json
+D:\AMIKOM\Pemograman\Mobil\bin\Debug\net7.0\Mobil.dll
+D:\AMIKOM\Pemograman\Mobil\bin\Debug\net7.0\Mobil.pdb
+D:\AMIKOM\Pemograman\Mobil\obj\Debug\net7.0\Mobil.csproj.AssemblyReference.cache
+D:\AMIKOM\Pemograman\Mobil\obj\Debug\net7.0\Mobil.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMIKOM\Pemograman\Mobil\obj\Debug\net7.0\Mobil.AssemblyInfoInputs.cache
+D:\AMIKOM\Pemograman\Mobil\obj\Debug\net7.0\Mobil.AssemblyInfo.cs
+D:\AMIKOM\Pemograman\Mobil\obj\Debug\net7.0\Mobil.csproj.CoreCompileInputs.cache
+D:\AMIKOM\Pemograman\Mobil\obj\Debug\net7.0\Mobil.dll
+D:\AMIKOM\Pemograman\Mobil\obj\Debug\net7.0\refint\Mobil.dll
+D:\AMIKOM\Pemograman\Mobil\obj\Debug\net7.0\Mobil.pdb
+D:\AMIKOM\Pemograman\Mobil\obj\Debug\net7.0\Mobil.genruntimeconfig.cache
+D:\AMIKOM\Pemograman\Mobil\obj\Debug\net7.0\ref\Mobil.dll
